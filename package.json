@@ -2,6 +2,7 @@
 	"description": "Completed Backend Dev and API",
 	"name": "fcc-learn-npm-package-json",
 	"keywords": [ "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
