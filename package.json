@@ -1,6 +1,7 @@
 {	"author": "Saelle",
 	"description": "Completed Backend Dev and API",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": [ "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
